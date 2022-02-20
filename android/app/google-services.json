@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938255019291",
+    "project_id": "fluterapp-870df",
+    "storage_bucket": "fluterapp-870df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938255019291:android:2f40e12ea047c5e52877be",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938255019291-r2p44enf6vntchuu9fbj8idsb7akcmiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu9UcUfMBqzZeE2a8Xn34Fx62FhtKybmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938255019291-r2p44enf6vntchuu9fbj8idsb7akcmiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
